@@ -1,0 +1,14 @@
+{
+    "name": "pc-50/testdevops",
+    "autoload": {
+        "psr-4": {
+            "Pc50\\Testdevops\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "test"
+        }
+    ],
+    "require": {}
+}
